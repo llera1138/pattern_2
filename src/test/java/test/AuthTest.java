@@ -1,4 +1,4 @@
-package test;
+package ru.netology.testmode.test;
 
 import com.codeborne.selenide.Condition;
 import org.checkerframework.checker.units.qual.C;
